@@ -694,5 +694,6 @@ var index = unwrapExports(dist);
 var dist_1 = dist.outlinePdfCjsFactory;
 var dist_2 = dist.outlinePdfFactory;
 
+window.dist = dist;
 // export default index;
 // export { dist_1 as outlinePdfCjsFactory, dist_2 as outlinePdfFactory };
